@@ -1,3 +1,3 @@
 # angularToDo2
-npm install
+npm install,
 gulp serve
